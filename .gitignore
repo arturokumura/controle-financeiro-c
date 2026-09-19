@@ -1,0 +1,7 @@
+# Executáveis compilados
+*.exe
+main
+*.o
+
+# Dados do usuário (gerado pelo programa ao salvar)
+transacoes.tsv
